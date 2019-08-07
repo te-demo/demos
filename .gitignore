@@ -4,3 +4,4 @@ target/
 **/.cluster-config.yaml
 **/gen-out/**
 *.iml
+*.zip
